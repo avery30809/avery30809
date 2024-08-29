@@ -16,8 +16,9 @@
 - **Programming Languages:** C/C++, Python, Java, JavaScript, PHP, Kotlin, SQL
 - **Web Development:** HTML, CSS, Node.js
 - **Tools & Technologies:** Git, Docker
-
+<!-- 
 ### 📫 Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/yourprofile/)
 - [Twitter](https://twitter.com/yourhandle)
 - [Portfolio](https://yourwebsite.com)
+-->
