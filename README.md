@@ -10,7 +10,7 @@
 - 📫 How to reach me: **your.email@example.com**
 
 ### 📈 My GitHub Activity Graph:
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=avery30809&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=avery30809&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 🛠️ My Skills:
 - **Programming Languages:** JavaScript, Python, Java
