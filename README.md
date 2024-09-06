@@ -22,6 +22,4 @@
 - [Twitter](https://twitter.com/yourhandle)
 - [Portfolio](https://yourwebsite.com)
 -->
-### 技術堆棧
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<img align="right" alt="Coding GIF" src="https://tenor.com/view/bang-dream-it%27s-mygo-it%27s-mygo-mygo-%E6%99%9A%E5%AE%89-%E7%9D%A1%E8%A6%BA-gif-10730493985853479225" width="400" />
