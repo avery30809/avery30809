@@ -22,4 +22,4 @@
 - [Twitter](https://twitter.com/yourhandle)
 - [Portfolio](https://yourwebsite.com)
 -->
-<img align="right" alt="Coding GIF" src="https://tenor.com/view/bang-dream-it%27s-mygo-it%27s-mygo-mygo-%E6%99%9A%E5%AE%89-%E7%9D%A1%E8%A6%BA-gif-10730493985853479225" width="400" />
+<img align="right" alt="Coding GIF" src="https://c.tenor.com/lOpfbXNDGTkAAAAC/tenor.gif" width="400" />
