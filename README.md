@@ -1,6 +1,8 @@
 # Welcome to My GitHub Profile!
 
+<p align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi!+I+am+Avery;Welcome+to+my+github;Full+Stack+Developer;Open+Source+Contributor;Always+Learning+New+Things&center=true&width=500&height=50)](https://git.io/typing-svg)
+</p>
 
 ### 👨‍💻 About Me:
 - 🔭 I’m currently working on **Novel NER-Model**
