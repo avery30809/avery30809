@@ -17,10 +17,8 @@
 - **Web Development:** HTML, CSS, Node.js
 - **Tools & Technologies:** Git, Docker
 
-<p align="center">
-  <img alt="MYGO" src="https://cdn.discordapp.com/attachments/1146465737628729405/1281451687990661140/9d2b85e593f604c9bcbec500fa62d86c.png?ex=66dbc462&is=66da72e2&hm=8acc2d3e321bfee7b3279d9dbe58e4cb33b4b0626673c72eabfb4e591c52ef84&" width="600" />
-  <img alt="Coding GIF" src="https://c.tenor.com/lOpfbXNDGTkAAAAC/tenor.gif" width="600" />
-</p>
+<img alt="MYGO" src="https://cdn.discordapp.com/attachments/1146465737628729405/1281451687990661140/9d2b85e593f604c9bcbec500fa62d86c.png?ex=66dbc462&is=66da72e2&hm=8acc2d3e321bfee7b3279d9dbe58e4cb33b4b0626673c72eabfb4e591c52ef84&" width="600" />
+<img alt="Coding GIF" src="https://c.tenor.com/lOpfbXNDGTkAAAAC/tenor.gif" width="600" />
 
 <!-- 
 ### 📫 Connect with me:
