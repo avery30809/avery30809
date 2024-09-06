@@ -17,7 +17,7 @@
 - **Web Development:** HTML, CSS, Node.js
 - **Tools & Technologies:** Git, Docker
 
-<img align="right" alt="Coding GIF" src="https://c.tenor.com/lOpfbXNDGTkAAAAC/tenor.gif" width="400" />
+<img align="center" alt="Coding GIF" src="https://c.tenor.com/lOpfbXNDGTkAAAAC/tenor.gif" width="600" />
 
 <!-- 
 ### 📫 Connect with me:
