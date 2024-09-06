@@ -16,10 +16,12 @@
 - **Programming Languages:** C/C++, Python, Java, JavaScript, PHP, Kotlin, SQL
 - **Web Development:** HTML, CSS, Node.js
 - **Tools & Technologies:** Git, Docker
+
+<img align="right" alt="Coding GIF" src="https://c.tenor.com/lOpfbXNDGTkAAAAC/tenor.gif" width="400" />
+
 <!-- 
 ### 📫 Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/yourprofile/)
 - [Twitter](https://twitter.com/yourhandle)
 - [Portfolio](https://yourwebsite.com)
 -->
-<img align="right" alt="Coding GIF" src="https://c.tenor.com/lOpfbXNDGTkAAAAC/tenor.gif" width="400" />
